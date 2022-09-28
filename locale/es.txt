@@ -4,9 +4,10 @@
 
 ### URL
 WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36_mobile.url = https://goedertgroup.com
-WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36.url = https://goedertgroup.com/
 LinkBehaviour_F108ACE5_E637_F76A_41D9_5FDF9EEE7F74.source = https://goedertgroup.com/
+WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36.url = https://goedertgroup.com/
 LinkBehaviour_B7C2DEC9_81D6_C7ED_41A1_4EA13E8819CF.source = https://goedertgroup.com/
+LinkBehaviour_BA49A1A5_80F2_52BC_41D1_D6F6D4A40AD5.source = https://goedertgroup.com/
 WebFrame_6EF9D945_597C_4093_41C4_38AB28685800.url = https://maps.google.com/maps?output=embed&center=-27.5825935,-48.5853102&z=20&q=Black+Office+Class
 WebFrame_6EF9D945_597C_4093_41C4_38AB28685800_mobile.url = https://maps.google.com/maps?output=embed&center=-27.5825935,-48.5853102&z=20&q=Black+Office+Class
 WebFrame_D2D710D4_DCD9_1DED_41E6_27A37384BB01.url = //www.youtube.com/embed/RqnD3OZgVQk?v=RqnD3OZgVQk
